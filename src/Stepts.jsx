@@ -1,3 +1,5 @@
+import './Stepts.css';
+
 export default function Preparation() {
     return <div className="preparation">
         <h2>Preparation</h2>

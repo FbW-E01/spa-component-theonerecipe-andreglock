@@ -1,3 +1,5 @@
+import './Ingredients.css';
+
 export default function Ingredients() {
     return <div className="ingredients">
         <h2>Ingredients</h2>
